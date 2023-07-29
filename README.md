@@ -59,5 +59,13 @@ to string and passed to pywhatkit text to handwriting library. The image is then
 The frontend of the website is made using HTML, CSS and JavaScript. The navbar contains links for home, about, features and contact and a toggle button for switching between light
 theme and dark theme. Flask has been used to effectively upload and download converted and original documents.
 
+
+
+
+
 ## Demo
-https://user-images.githubusercontent.com/63349641/149623032-101de590-1219-4977-851d-73111ccc8c28.mp4
+
+
+
+https://github.com/dhruvkumar777/handwritten_from_text/assets/91821313/4cf30c23-5f97-4951-9ec4-27c3fa68ce39
+
